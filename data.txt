@@ -1,0 +1,16 @@
+=====================================
+Stock:
+
+Stock total: 5000
+
+Ventes:
+Produit: phone, Quantité: 23, Prix: 233.0
+
+Fournisseurs:
+Nom: amine, Contact: azzeee
+
+Commandes:
+Produit: phone, Quantité: 23, Fournisseur: amine
+=====================================
+Stock Courant: 5023
+=====================================
